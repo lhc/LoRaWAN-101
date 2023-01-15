@@ -6,6 +6,8 @@ LoRaWan 101
 Está atividade hands on é a primeira de uma séria de atividades no LHC para o desenvolvimento de soluções baseado em LoRawan. Esta primeira atividade tem como objetivo a implementação de um gateway LoRawan em uma raspberry Pi e o deployment de um network e application server LoRawan open source (Chirpstack). Com esses dois componentes implementados será possível o desenvolvimento de outros sensores baseados na tecnologia LoRawan.
 
 - Agenda de atividades 2023
+
+
 | data  | evento  |
 |----------|----------|
 | 12-Janeiro-2023|[LoRaWAN 101](https://eventos.lhc.net.br/event/lorawan-101-atividade-gratuita) |
