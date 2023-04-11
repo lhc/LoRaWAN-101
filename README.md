@@ -11,8 +11,12 @@ Está atividade hands on é a primeira de uma séria de atividades no LHC para o
 | data  | evento  |
 |----------|----------|
 | 12-Janeiro-2023|[LoRaWAN 101](https://eventos.lhc.net.br/event/lorawan-101-atividade-gratuita) |
+| 16-Fevereiro-2023|[LoRaWAN 101](https://eventos.lhc.net.br/event/lorawan-101-atividade-gratuita) |
+| 30-Março-2023|[LoRaWAN 101](https://eventos.lhc.net.br/event/lorawan-101-atividade-gratuita) |
+| 13-Abril-2023|[LoRaWAN 101] |
 | Definindo data da segunda atividade | em processo |
 
+# Registros das últimas atividades em processo. Postblog em construção!
 
 # [12-Janeiro de 2023](https://discourse.lhc.net.br/t/12-de-janeiro-de-2023-lorawan-101/392)
 Registro do dia 12 de Janeiro de 2023, reativando os eventos presenciais do Laboratório Hacker de Campinas. Tivemos a primeira atividade de uma série de encontros no hackerspace, para a discussão e desenvolvimento de uma solução baseada em LoRaWAN com o Leandro Pereira.
