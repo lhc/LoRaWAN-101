@@ -11,9 +11,9 @@ Está atividade hands on é a primeira de uma séria de atividades no LHC para o
 | data  | evento  |
 |----------|----------|
 | 12-Janeiro-2023|[LoRaWAN 101](https://eventos.lhc.net.br/event/lorawan-101-atividade-gratuita) |
-| 16-Fevereiro-2023|[LoRaWAN 101](https://eventos.lhc.net.br/event/lorawan-101-atividade-gratuita) |
-| 30-Março-2023|[LoRaWAN 101](https://eventos.lhc.net.br/event/lorawan-101-atividade-gratuita) |
-| 13-Abril-2023|[LoRaWAN 101] |
+| 16-Fevereiro-2023|[LoRaWAN 101|
+| 30-Março-2023|[LoRaWAN 101]|
+| 13-Abril-2023|[LoRaWAN 101]|
 | Definindo data da segunda atividade | em processo |
 
 # Registros das últimas atividades em processo. Postblog em construção!
