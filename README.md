@@ -14,7 +14,7 @@ Está atividade hands on é a primeira de uma séria de atividades no LHC para o
 | 16-Fevereiro-2023|[LoRaWAN 101|
 | 30-Março-2023|[LoRaWAN 101]|
 | 13-Abril-2023|[LoRaWAN 101]|
-| Definindo data da segunda atividade | em processo |
+| Definindo data para Maio | em processo |
 
 # Registros das últimas atividades em processo. Postblog em construção!
 
